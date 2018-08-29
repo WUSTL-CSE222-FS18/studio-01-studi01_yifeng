@@ -16,24 +16,38 @@ These will be timed activities.  Please note the timer and be sure to use your t
 
 Your group will be both a "Customer" and a "Designer".  First you'll prepare for your Customer role.  Browse through the "Mission" cards and select the one that interests you. You may use either the specific example on the card or be creative and try to develop another example that fits the goal given on the card. Any discussions with  Designers should not reveal the specific example you have in mind.  Try to really think about the example and how it would fit into your life as a customer. Try to build an entire story around it.  Make sure you have a clear vision in mind.
 
-Safekeeping
+
+
+***Q1.1 Briefly describe your Mission:***
+
 
 |         |         |      |
 | ------------- |:-------------:| -----:|
-| Example    | We can put a tracker in the wallet or somewhere else which need to Safekeeping, when the tracker is always from your wallet that suddenly will alarm|  |
-|   Goal   | Create a concept or object that protects either the user or something that is valuable to the user      |    |
+| Example    | A piggy bank that starts smiling and grunting when you give it money|  |
+|   Goal   | Create a concept where the object are so pleasant or fun to use that people will want to spend time with it, regardless of what else it does      |    |
 
-***Q1.1 Briefly describe your Mission:***
+
+
 
 ## Part 1.2: Finding a Designer/Customer (3 minutes)
 
 Find another group to work with. The other group should be students who neither of you have worked with before and far enough away that they didn't overhear any of your discussion of your Mission. One group will be "Designers" while another is "Customers".  Then the groups will switch roles (so each will be a Designer while the other is a Customer).  Pick which group is "Designing" first.
+
+
+
 
 ## Part 1.3 Empathizing (13 minutes total)
 
 (7 minutes) The Designer's first step in design thinking is empathizing with the person who the design is for.  The Designer should have a conversation with the Customer to get to know them and to ask about the Customer's needs and interests.  The goal is to try to identify the customer's need, *not a specific solution*.  The Designers who are going first should interview the customer and try to figure out the underlying need they'd like to satisfy.  
 
 ***Q1.2 Share some notes from your interview here and try to describe the "need" with a very brief description:***
+
+Needs:
+They try keep their object such as wallet, bike, etc safe and keep tracking.
+Keep tracking such as GPS
+Make sound when it moving(by others)
+Make the product have long life(not easy to break)
+
 
 (6 minutes) Reverse roles. The Customers are now Designers and vice versa.  Repeat the interview process. (Designers, complete the question above in that space)
 
@@ -43,13 +57,38 @@ Return to your original locations.  In this step all groups will act like Design
 
 ***Q1.3 Briefly describe your solutions (use a list) and any strengths/weaknesses you see.***
 
+
+* Strengths
+  * Keep the object safer
+  * Making user know where their stuff is
+  * Easy to set up
+* Weaknesses
+  * Cost Money
+
+  Safekeeping
+
+  |         |         |           |
+  | ------------- |:-------------:| -----:|
+  | Function    | We can put a tracker in the wallet or somewhere else which need to Safekeeping, when the tracker is always from your wallet that suddenly will alarm|  |
+  |   Need   | Create a concept or object that protects either the user or something that is valuable to the user      |    |
+
+Battery go low: alert user to charge before 20%
+
+
 ## Part 1.5: Feedback (10 minutes total)
 
 Meet with your corresponding group again. And, again, select which set will be Designers first.
 
 (5 minutes) Designers:  Present your solutions and get the Customers' feedback.  As a Designer you should be open to any initial reactions.  Customers: think carefully about your original "need" and try to give both pros and cons of the proposed solutions.
 
+
 ***Q1.4 Designers: Briefly summarize their feedback for each solution:***
+
+Feedback:
+* Maybe the product is cost unexpected money
+* Some Tech skill needed
+* Easy to be lose itself
+* Battery
 
 (4 minutes): Reverse roles.  Designers: Fill in your answers to the question above.
 
@@ -60,6 +99,13 @@ Return to your original seats.
 In this phase everyone is thinking like a Designer.  Design thinking also relies on iterative refinement of work to suite the Customer.  Are there ways it could be improved?  Discuss the feedback and refine/update your work if needed.
 
 ***Q1.5 Based on the feedback, how might you change your solution?***
+
+Update:
+
+* Make the instruction friendly
+* Send a low-battery alert when your battery is going low to your phone
+* Design some kind of lock that can stick on user's stuff(get locked and unlocked by fingerprint)
+
 
 ## Part 1.7 Evaluation (5 minutes)
 
