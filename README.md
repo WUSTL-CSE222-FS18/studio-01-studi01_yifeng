@@ -8,6 +8,10 @@ You should review all the class policies and post any questions or clarification
 
 ***Q1.0 Please acknowledge that you will review the class policies and, if necessary, ask for any clarifications by Wed, Sept. 5.  Each person should type their name below to acknowledge this request:***
 
+I, Yifeng Guo acknowledge the class policies.
+I, Tong Wu acknowledge the class policies.
+
+
 # Part 1: Choose your own IoT Adventure
 
 These will be timed activities.  Please note the timer and be sure to use your time wisely.
@@ -26,14 +30,12 @@ Your group will be both a "Customer" and a "Designer".  First you'll prepare for
 | Example    | A piggy bank that starts smiling and grunting when you give it money|  |
 |   Goal   | Create a concept where the object are so pleasant or fun to use that people will want to spend time with it, regardless of what else it does      |    |
 
-
+We want have fun with the product
 
 
 ## Part 1.2: Finding a Designer/Customer (3 minutes)
 
 Find another group to work with. The other group should be students who neither of you have worked with before and far enough away that they didn't overhear any of your discussion of your Mission. One group will be "Designers" while another is "Customers".  Then the groups will switch roles (so each will be a Designer while the other is a Customer).  Pick which group is "Designing" first.
-
-
 
 
 ## Part 1.3 Empathizing (13 minutes total)
@@ -57,6 +59,12 @@ Return to your original locations.  In this step all groups will act like Design
 
 ***Q1.3 Briefly describe your solutions (use a list) and any strengths/weaknesses you see.***
 
+Solution for Safekeeping
+
+|         |         |           |
+| ------------- |:-------------:| -----:|
+| Function    | We can put a tracker in the wallet or somewhere else which need to Safekeeping, when the tracker is always from your wallet that suddenly will alarm|  |
+|   Need   | Create a concept or object that protects either the user or something that is valuable to the user      |    |
 
 * Strengths
   * Keep the object safer
@@ -65,14 +73,7 @@ Return to your original locations.  In this step all groups will act like Design
 * Weaknesses
   * Cost Money
 
-  Safekeeping
-
-  |         |         |           |
-  | ------------- |:-------------:| -----:|
-  | Function    | We can put a tracker in the wallet or somewhere else which need to Safekeeping, when the tracker is always from your wallet that suddenly will alarm|  |
-  |   Need   | Create a concept or object that protects either the user or something that is valuable to the user      |    |
-
-Battery go low: alert user to charge before 20%
+Battery go low: alert user to charge before 20%, and tell users to charge
 
 
 ## Part 1.5: Feedback (10 minutes total)
@@ -113,6 +114,13 @@ Switch back to being a Customer and thinking about the product you want and the 
 
 ***Q1.6 List your three top Criteria:***
 
+* User Friendly
+  * We want the product look good when we using it
+* Creativity
+  * We want the product look good when others seeing us.
+* Attraction
+  * We don't want to look stupid in it(playing with it)
+
 ## Part 1.8: More Feedback (10 minutes total)
 
 Meet with your corresponding group again. And, again, select which set will be Designers first.
@@ -121,7 +129,14 @@ Meet with your corresponding group again. And, again, select which set will be D
 
 ***Q1.7 Briefly summarize your findings as a Designer.  Is the customer happy with your work?  How could it be further improved?***
 
+Yes, they are happy about the product(We promise give they a discount)
+Maybe We can update function weekly to keep user experiences.
+
+
 ***Q1.8 Briefly summarize your findings as a Customer.  Will the proposed solution meet your needs?  Was it substantially different than what you may have initially envisioned?***
+
+We find out sometimes, a good idea for us, maybe is not a good idea for designers(as we being the position of both customer and designer)
+
 
 (5 minutes): Reverse roles.  Designers and Customers: Fill in your answers to the question above.
 
@@ -135,12 +150,18 @@ Part of the goal of today's studio was to provide you some "menus" for:
    - some criteria that can be used to evaluate the value of IoT systems.
 
 ***Q2.1 Without reviewing the cards, provide three examples of each type of card along with a brief description (try your best).  Add your answers as a sub-list for each type here:***
+
+* Time-saver:
 - Criteria
 - Things
 - Services
 - Feedback
 - Human Actions
 - Missions
+
+
+
+
 
 ### Contrast
 
