@@ -16,6 +16,13 @@ These will be timed activities.  Please note the timer and be sure to use your t
 
 Your group will be both a "Customer" and a "Designer".  First you'll prepare for your Customer role.  Browse through the "Mission" cards and select the one that interests you. You may use either the specific example on the card or be creative and try to develop another example that fits the goal given on the card. Any discussions with  Designers should not reveal the specific example you have in mind.  Try to really think about the example and how it would fit into your life as a customer. Try to build an entire story around it.  Make sure you have a clear vision in mind.
 
+Safekeeping
+|--------|:------:|
+Example: We can put a tracker in the wallet or somewhere else which need to Safekeeping, when the tracker is always from your wallet that suddenly will alarm
+
+Goal: Create a concept or object that protects either the user or something that is valuable to the user
+
+
 ***Q1.1 Briefly describe your Mission:***
 
 ## Part 1.2: Finding a Designer/Customer (3 minutes)
