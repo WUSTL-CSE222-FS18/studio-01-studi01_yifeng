@@ -18,9 +18,8 @@ Your group will be both a "Customer" and a "Designer".  First you'll prepare for
 
 Safekeeping
 |        |        |
-|--------|:------:|
+|--------| ------:|
 |Example | We can put a tracker in the wallet or somewhere else which need to Safekeeping, when the tracker is always from your wallet that suddenly will alarm|
-
 |Goal | Create a concept or object that protects either the user or something that is valuable to the user|
 
 
